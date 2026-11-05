@@ -1,0 +1,49 @@
+{
+  "classes": [
+    "Dropout",
+    "Enrolled",
+    "Graduate"
+  ],
+  "metrics": {
+    "Logistic Regression": {
+      "Accuracy": 0.7684,
+      "AUC": 0.8778,
+      "Precision": 0.707,
+      "Recall": 0.6754,
+      "F1": 0.6826,
+      "MCC": 0.615
+    },
+    "Decision Tree": {
+      "Accuracy": 0.7458,
+      "AUC": 0.8511,
+      "Precision": 0.689,
+      "Recall": 0.6609,
+      "F1": 0.6698,
+      "MCC": 0.578
+    },
+    "KNN": {
+      "Accuracy": 0.6949,
+      "AUC": 0.8082,
+      "Precision": 0.6245,
+      "Recall": 0.5787,
+      "F1": 0.5822,
+      "MCC": 0.4874
+    },
+    "Naive Bayes": {
+      "Accuracy": 0.6588,
+      "AUC": 0.7893,
+      "Precision": 0.5675,
+      "Recall": 0.5579,
+      "F1": 0.5576,
+      "MCC": 0.4279
+    },
+    "Support Vector Machine": {
+      "Accuracy": 0.7582,
+      "AUC": 0.8664,
+      "Precision": 0.7051,
+      "Recall": 0.6676,
+      "F1": 0.6785,
+      "MCC": 0.5986
+    }
+  }
+}
