@@ -23,12 +23,12 @@ Metric conventions (multi-class): Precision, Recall and F1 are **macro-averaged*
 
 ## c. GitHub repository link
 
-`<PASTE GITHUB REPO URL HERE>`
+https://github.com/SumathSP/BITS_ML_Assignment_2.git
 
 Live Streamlit app: `<PASTE STREAMLIT APP URL HERE>`
 
 ```
-Assignment2/
+BITS_ML_Assignment_2/
 ├── app.py                  # Streamlit app
 ├── common.py               # shared metrics / label helpers
 ├── train_models.py         # trains + evaluates + saves all 5 models
