@@ -25,7 +25,7 @@ Metric conventions (multi-class): Precision, Recall and F1 are **macro-averaged*
 
 https://github.com/SumathSP/BITS_ML_Assignment_2.git
 
-Live Streamlit app: `<PASTE STREAMLIT APP URL HERE>`
+Live Streamlit app: https://bits-student-dropout-predictor.streamlit.app
 
 ```
 BITS_ML_Assignment_2/
